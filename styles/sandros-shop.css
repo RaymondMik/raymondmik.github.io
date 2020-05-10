@@ -1,10 +1,10 @@
 input.search_form_searchfield {
-   color: #000;
+   color: #555;
    background-color: #fff;
-   border: 2px solid #000;
+   border: 2px solid #555 !important;
 }
 
 button.search_form_searchbutton {
-   background: #000;
-   color: #000;
+   background: #555 !important;;
+   color: #555;
 }
